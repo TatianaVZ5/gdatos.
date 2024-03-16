@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T22:41:48.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="4DEbZ0gpmt4_yZWSsDLq" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-16T22:45:01.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="sZGhoyusomQ7ROReGsHy" version="24.0.7" type="github">
   <diagram name="Página-1" id="9QIQpxU6GxvaB8XjjUQe">
     <mxGraphModel dx="1034" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -377,6 +377,9 @@
         </mxCell>
         <mxCell id="PIfV7v10c1vEiJRWZTz2-40" value="Correspondencia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="219" y="-172" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PIfV7v10c1vEiJRWZTz2-41" value="Doble Linea: Participacion Total" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="-99" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
