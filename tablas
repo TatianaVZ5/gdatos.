@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T18:31:34.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7pnr2KCquzemGSDZ4DFI" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T18:33:20.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kbwLufFD2z3fAuxuKZ7z" version="24.4.7" type="github">
   <diagram name="Página-1" id="CV_AS_RIHO-XB5-Ng0Cs">
     <mxGraphModel dx="2312" dy="3052" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -180,6 +180,9 @@
         </mxCell>
         <mxCell id="icEDofFzOhMzat9-NHrP-91" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.498;entryY=0.952;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=none;endFill=0;endSize=8;" edge="1" parent="1" source="icEDofFzOhMzat9-NHrP-28" target="icEDofFzOhMzat9-NHrP-42">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="icEDofFzOhMzat9-NHrP-92" value="Modelo Multidimensional Completo&#xa;Tablas de Dimensiones&#xa;Dim_Usuario&#xa;Dim_Empresa&#xa;Dim_Fecha (Usada para análisis temporal)&#xa;Dim_Formato&#xa;Dim_BPM&#xa;Dim_Control_de_Plagas&#xa;Dim_PH_y_Cloro_Residual&#xa;Dim_Residuos&#xa;Dim_Limpieza_y_Desinfección&#xa;Dim_Temperatura&#xa;&#xa;&#xa;Tablas de Hechos&#xa;Hecho_Alertas&#xa;Hecho_Recepcion_de_Alertas&#xa;Hecho_Informe&#xa;Hecho_Formato&#xa;Hecho_BPM&#xa;Hecho_Control_de_Plagas&#xa;Hecho_PH_y_Cloro_Residual&#xa;Hecho_Residuos&#xa;Hecho_Limpieza_y_Desinfección&#xa;Hecho_Temperatura" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=22;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1587" y="-1816" width="489" height="637" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
